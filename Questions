@@ -1,0 +1,11 @@
+Remarques / questions :
+
+
+CAS D'USAGES:
+J'ai l'impression que les cas d'usages sont plus un document pour les développeurs qui n'est pas vraiment présenté au client car il montre plus le "comment" de l'application ce qui n'interesse pas le client. C'est dans ce sens que j'ai repris les cas d'usages des pages.
+
+USER STORIES
+Pour les user stories je me suis mis à la place du client pour les critères d'acceptation. J'ai l'impression que c'est un document qui l'interesse et qui valide la démarche du projet avec lui. Du coup j'ai revu mes critères pour chaque fonction et page car en tant que client je n'aurai pas été satisfait de ces critères. Je me susi basé sur le fait que avec une librairie on peut créer des faux utilisateurs... et donc créé des "pages fictives" pour le développement des diffrentes fonctions. En suivant cette idée les critères me paraissent beaucoup plus intuitifs pour le client. Il veut voir des pages s'afficher ou mises à jour plus que des messagebox (quand c'est possible).
+
+
+
